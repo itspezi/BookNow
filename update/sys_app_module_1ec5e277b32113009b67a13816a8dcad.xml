@@ -18,6 +18,8 @@
         <query/>
         <report/>
         <roles>x_bn.user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-25 15:40:43</sys_created_on>
